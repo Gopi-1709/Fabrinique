@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+html{
+    overflow-x: hidden;
+}
+#navi{
+    background-color:rgb(206, 177, 142);
+    
+}
+#navi .row h1{
+    font-weight: 600;
+}
+#navi img{
+    border-radius: 50%;
+}
+#navbarNav ul li a{
+    border-bottom: 2px solid transparent;
+}
+#navbarNav ul li a:hover{
+    border-bottom: 2px solid bisque;
+}
+/* ssection */
+
+#contact p{
+    font-size: 13px;
+}
+#contact h6{
+    font-weight: bold;
+}
+#contact .btn{
+    background-color: rgb(206, 177, 142);
+    border: none;
+    width: 100%;
+    color: rgb(102, 98, 98);
+}
+#contact .btn:hover{
+    background-color:antiquewhite;
+}
+#contact .details p{
+    font-size: 12px;
+}
+/* footer */
+#ft{
+    background-color: rgb(230, 217, 217);
+    min-height: auto;
+}
+#ft .row .link h5{
+    font-weight: 600;    
+}
+#ft .row .link ul li a:hover{
+    border-bottom: 2px solid grey;
+    
+}
+
+#ft .copyrights p{
+    font-weight: 600;
+    font-size: 10px;
+    text-align: center;
+    margin-bottom: 0;
+}
