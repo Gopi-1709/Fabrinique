@@ -22,7 +22,21 @@ html{
 #navbarNav ul li a:hover{
     border-bottom: 2px solid bisque;
 }
+.dropdown-menu {
+  background-color: #fff; /* White background */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.dropdown-item:hover {
+  background-color: #f8f9fa;
+  color: #000;
 
+}
+
+.dropdown-item:active {
+    background-color: grey !important;  /* Change this to your preferred color */
+    color: #fff;                /* Optional: text color */
+}
 /* products */
 .card{
     border: none !important;
