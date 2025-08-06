@@ -20,7 +20,7 @@ html{
     border-bottom: 2px solid transparent;
 }
 #navbarNav ul li a:hover{
-    border-bottom: 2px solid bisque;
+    border-bottom: 2px solid grey;
 }
 .dropdown-menu {
   background-color: #fff; /* White background */
