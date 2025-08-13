@@ -44,7 +44,7 @@ html{
 }
 .card{
 
-    width: 50%;
+    width: 87%;
     height: 350px;
 }
 /* .card-body{
@@ -54,8 +54,8 @@ html{
     transform: scale(1.1);   
 }
 .card-body .dress-img{
-    width: 268.9px;
-    height: 403.35px;
+    width: 240.35px;
+    height: 325.35px;
     border-radius: 10px;  
 }
 
